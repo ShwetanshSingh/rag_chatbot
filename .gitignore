@@ -1,3 +1,6 @@
 *.env
 *.code-workspace
+logs.txt
+__pycache__/
 venv/
+data/
