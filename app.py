@@ -1,7 +1,7 @@
 from chatbot import graph, log_message
 
 try:
-    question = "Who is the wizard of Oz?"
+    question = "Tell me about Dorothy"
     log_message("Chatbot", "Chatbot started")
     log_message("Chatbot", f"Question to chatbot:\n\t{question}")
     response = graph.invoke({"question": question})
