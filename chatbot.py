@@ -38,7 +38,7 @@ class Chatbot():
                 max_new_tokens=512,
                 do_sample=False,
                 repetition_penalty=1.03,
-                provider="cerebras"                             # setting provider="auto"
+                provider="cerebras"                             # setting provider="cerebras"
                                                                 # because featherless-ai
                                                                 # is not supported
             )
