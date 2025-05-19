@@ -9,3 +9,5 @@ langgraph-checkpoint==2.0.25
 langgraph-prebuilt==0.1.8
 langgraph-sdk==0.1.66
 langsmith==0.3.42
+unstructured
+gradio
