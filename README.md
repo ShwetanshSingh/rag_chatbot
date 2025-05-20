@@ -1,7 +1,4 @@
 # Assistant Chatbot
-<<<<<<< Updated upstream
-Python version = 3.12.3
-=======
 Python version = 3.12.3
 
 To run this project, 
@@ -14,6 +11,3 @@ To run this project,
 - Run `python app.py` 
 - You will see a link from Gradio in the terminal. `Ctrl+click` the link to open the application
 - The current data for RAG is `The Wizard of Oz`. You can submit your questions about the story, and the chatbot will provide responses with context gained from the document.
-
-
->>>>>>> Stashed changes
